@@ -81,7 +81,6 @@ const styles = StyleSheet.create({
     height: "100%",
   },
   container: {
-    display: "flex",
     flex: 1,
     opacity: 0.8,
     position: "absolute",
